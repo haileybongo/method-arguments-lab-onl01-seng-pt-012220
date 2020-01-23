@@ -1,3 +1,3 @@
-def introduction (name)
+def introcution(name)
   
 end
